@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.eachImage {
+  width: 300px;
+  height: 150px;
+  cursor: pointer;
+}
+.closeIcon {
+  text-align: right;
+}
+.closeIcon {
+  cursor: pointer;
+}

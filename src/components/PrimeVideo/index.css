@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.page-image {
+  width: 100vw;
+  height: 25vh;
+}
+.moviesListContainer {
+  background-color: #000000;
+  width: 100vw;
+  height: 100vh;
+  color: #ffffff;
+  font-family: Roboto;
+}
+.actionHead,
+.comedyHead {
+  font-size: 23px;
+  padding-left: 20px;
+}
+.slideContainer {
+  /* padding: 20px; */
+}
