@@ -13,8 +13,6 @@ import './index.css'
 const MovieItem = props => {
   const {movies} = props
   const {thumbnailUrl, videoUrl} = movies
-
-  console.log(thumbnailUrl)
   return (
     <div>
       <Popup
